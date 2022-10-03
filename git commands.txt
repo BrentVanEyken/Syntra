@@ -1,0 +1,7 @@
+git clone <link repository>
+
+git add .          (. = alles)
+
+git commit -m "de app.py toegevoegd"   (-m "" = message)
+
+git push
